@@ -1,0 +1,20 @@
+Apr 14, 2019 12:10:36 PM serverImplementation.ConLibImpl addItem
+INFO: Added item for manager CONM1111 CON6231 Distributed 1
+Apr 14, 2019 12:10:36 PM serverImplementation.ConLibImpl addItem
+INFO: Added item for manager CONM1111 CON6231 Distributed 5
+Apr 14, 2019 12:10:36 PM serverImplementation.ConLibImpl addItem
+INFO: Added item for manager CONM1111 CON6441 APP 1
+Apr 14, 2019 12:10:36 PM serverImplementation.ConLibImpl returnItem
+INFO: Book returned succesfully for user CONU1111 CON6231 Distributed
+Apr 14, 2019 12:10:36 PM serverImplementation.ConLibImpl addItem
+INFO: Added item for manager CONM1111 CON6231 Distributed 1
+Apr 14, 2019 12:10:36 PM serverImplementation.ConLibImpl addItem
+INFO: Added item for manager CONM1111 CON6231 Distributed 5
+Apr 14, 2019 12:10:36 PM serverImplementation.ConLibImpl addItem
+INFO: Added item for manager CONM1111 CON6441 APP 1
+Apr 14, 2019 12:10:36 PM serverImplementation.ConLibImpl removeItem
+INFO: Book number decreased for manager CONM1111 CON6231 1
+Apr 14, 2019 12:10:36 PM serverImplementation.ConLibImpl removeItem
+INFO: Book number decreased for manager CONM1111 CON6231 1
+Apr 14, 2019 12:10:36 PM serverImplementation.ConLibImpl removeItem
+INFO: Book number decreased for manager CONM1111 CON6231 1
